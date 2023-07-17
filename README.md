@@ -38,7 +38,28 @@ const data = [
 
 React.render(<Table columns={columns} data={data} />, mountNode);
 ```
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px"> API</th>
+      <th width="500px">CLI</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+      <td>
 
+
+</td>
+<td>
+
+
+</td>
+</tr>
+
+  </tbody>
+</table>
 ## API
 
 ### Portfolio Template
