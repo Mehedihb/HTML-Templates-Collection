@@ -44,7 +44,7 @@ React.render(<Table columns={columns} data={data} />, mountNode);
 ### Portfolio Template
 
 | Name | Author | Default | Description |
-| --- | --- | --- | --- |
+| --- | --- | ---- | --- |
 | [Atail Template v.1.0.5](https://www.youtube.com/watch?v=j8WlpGy93Og) | String |  | key of this column |
 | className | String |  | className of this column |
 | colSpan | Number |  | thead colSpan of this column |
