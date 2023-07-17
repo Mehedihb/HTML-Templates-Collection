@@ -41,7 +41,7 @@ React.render(<Table columns={columns} data={data} />, mountNode);
 <!-- prettier-ignore -->
 <table>
   <thead>
-    <tr>
+    <tr width="100%">
       <th>Name</th>
       <th>Author</th>
       <th>Descriptiopn</th>
