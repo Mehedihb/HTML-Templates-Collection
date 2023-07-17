@@ -41,11 +41,11 @@ React.render(<Table columns={columns} data={data} />, mountNode);
 <!-- prettier-ignore -->
 <table>
   <thead>
-    <tr width="100%">
-      <th>Name</th>
-      <th>Author</th>
-      <th>Descriptiopn</th>
-      <th>Star</th>
+    <tr>
+      <th width="500px">Name</th>
+      <th width="200px">Author</th>
+      <th width="500px">Descriptiopn</th>
+      <th width="200px">Star</th>
     </tr>
   </thead>
   <tbody>
