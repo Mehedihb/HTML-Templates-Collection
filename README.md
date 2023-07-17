@@ -48,17 +48,13 @@ React.render(<Table columns={columns} data={data} />, mountNode);
       <th width="200px">Star</th>
     </tr>
   </thead>
+  
   <tbody>
   <tr width="600px">
       <td>
-
-
-</td>
-<td>
-
-
-</td>
-</tr>
+        [Atail Template v.1.0.5](https://www.youtube.com/watch?v=j8WlpGy93Og)
+      </td>
+  </tr>
 
   </tbody>
 </table>
