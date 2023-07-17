@@ -45,21 +45,7 @@ React.render(<Table columns={columns} data={data} />, mountNode);
 
 | Name | Author | Default | Description |
 | --- | --- | --- | --- |
-
-| prefixCls | String | rc-table |  |
-| className | String |  | additional className |
-| id | String |  | identifier of the container div |
-| useFixedHeader | Boolean | false | whether use separator table for header. better set width for columns |
-| expandable | Object |  | Config expand props |
-| expandable.defaultExpandAllRows | Boolean | false | Expand All Rows initially |
-| expandable.defaultExpandedRowKeys | String[] | [] | initial expanded rows keys |
-| expandable.expandedRowKeys | String[] |  | current expanded rows keys |
-
-## Column Props
-
-| Name | Type | Default | Description |
-| --- | --- | --- | --- |
-| key | String |  | key of this column |
+| [Atail Template v.1.0.5](https://www.youtube.com/watch?v=j8WlpGy93Og) | String |  | key of this column |
 | className | String |  | className of this column |
 | colSpan | Number |  | thead colSpan of this column |
 | title | React Node |  | title of this column |
