@@ -42,8 +42,10 @@ React.render(<Table columns={columns} data={data} />, mountNode);
 <table>
   <thead>
     <tr>
-      <th width="500px"> API</th>
-      <th width="500px">CLI</th>
+      <th width="500px">Name</th>
+      <th width="500px">Author</th>
+      <th width="500px">Descriptiopn</th>
+      <th width="500px">Star</th>
     </tr>
   </thead>
   <tbody>
