@@ -45,19 +45,10 @@ React.render(<Table columns={columns} data={data} />, mountNode);
 
 | Name | Author | Default | Description |
 | --- | --- | --- | --- |
-| [Atail Template v.1.0.5](https://www.youtube.com/watch?v=j8WlpGy93Og) | String |  | key of this column |
+| [Atail Template v.1.0.5](https://www.youtube.com/watch?v=j8WlpGy93Og) | [Themeforest](https://themeforest.net/) |  | key of this column |
 | className | String |  | className of this column |
 | colSpan | Number |  | thead colSpan of this column |
 | title | React Node |  | title of this column |
-| dataIndex | String |  | display field of the data record |
-| width | String \| Number |  | width of the specific proportion calculation according to the width of the columns |
-| fixed | String \| Boolean |  | this column will be fixed when table scroll horizontally: true or 'left' or 'right' |
-| align | String |  | specify how cell content is aligned |
-| ellipsis | Boolean |  | specify whether cell content be ellipsized |
-| rowScope | 'row' \| 'rowgroup' |  | Set scope attribute for all cells in this column |
-| onCell | Function(record, index) |  | Set custom props per each cell. |
-| onHeaderCell | Function(record) |  | Set custom props per each header cell. |
-| render | Function(value, row, index) |  | The render function of cell, has three |
 
 ## Summary Props
 
